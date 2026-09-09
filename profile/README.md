@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dinesh Kumar Yadav
+# 👋 Hi, I'm Dinesh Yadav
 
 ### 🚀 Software Engineer | WordPress & WooCommerce Expert | E-commerce Solutions | PHP | React | Solution Architecture
 
@@ -14,7 +14,7 @@ I enjoy working at the intersection of **technology, product development, projec
 
 - 🏗️ **10+ years** of experience in WordPress, WooCommerce, PHP, React and e-commerce development
 - 🎯 Experienced in **Technical Project Management, Engineering Leadership, Solution Design, and System Architecture**
-- 👥 Led and mentored **20+ developers and QA professionals**
+- 👥 Led and mentored a team of **20+ developers and QA professionals**
 - 🚀 Managed **10+ concurrent client and product engineering projects**
 - 🌍 Worked on solutions for **global clients and e-commerce businesses**
 - 🛒 Built and contributed to WooCommerce solutions used by **2,000+ merchants**
@@ -161,7 +161,6 @@ Led technical project delivery and engineering teams for WordPress and WooCommer
 Worked on commercial WordPress and WooCommerce plugins, including plugin development, maintenance, WordPress.org releases, and payment gateway integrations.
 
 **Key contributions:**
-- 🔌 Quick Plugin Switcher
 - 💳 XL NMI Gateway for WooCommerce
 - ⏱️ Finale Lite – Sales Countdown Timer & Discount for WooCommerce
 - 🛍️ NextMove Lite – Thank You Page for WooCommerce
@@ -186,6 +185,7 @@ Worked on commercial WordPress and WooCommerce plugins, including plugin develop
 - 🔌 Created **BuddyPress Activity Filter** for the WordPress.org repository
 - 🛠️ Worked on **15+ WordPress websites**
 - 🎨 Worked on theme customization and WordPress development
+- 🔌 Quick Plugin Switcher for wordpress.org repository
 
 ---
 
