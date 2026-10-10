@@ -249,7 +249,7 @@ I’m always interested in discussing:
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/dineshinau/
 
-💻 **GitHub:** https://github.com/dineshinau
+💻 **WordPress.org Profile:** https://profiles.wordpress.org/dineshinau/
 
 ---
 
