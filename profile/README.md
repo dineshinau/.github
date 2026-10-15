@@ -1,12 +1,30 @@
 # 👋 Hi, I'm Dinesh Yadav
 
-### 🚀 Software Engineer | WordPress & WooCommerce Expert | E-commerce Solutions | PHP | React | Solution Architecture
+### 🚀 Hands-on technical leader with 10+ years of experience building PHP, React, WordPress, and WooCommerce products.
 
-I’m a **Software Engineer and WordPress/WooCommerce specialist** with **10+ years of experience** in web development, e-commerce engineering, plugin architecture, technical leadership, and product delivery.
+- Most recently: Technical Project Manager at Webkul
+- Managed four engineering leads and contributed to performance appraisals
+- Stayed hands-on with coding, code reviews, and technical delivery
+- Focus: marketplaces, payment gateways, shipping integrations, and plugin architecture
+- Open to Technical Lead, Engineering Manager, and Technical Project Manager opportunities
+- Based in Noida, India; available immediately and open to relocation
 
 I specialize in building and managing **scalable WordPress and WooCommerce solutions**, including multi-vendor marketplaces, payment gateway integrations, shipping & logistics systems, custom plugins, performance optimization, and enterprise e-commerce products.
 
 I enjoy working at the intersection of **technology, product development, project management, and business requirements** — turning complex requirements into practical, scalable solutions. 🤝
+
+## Featured project: Bulk COGS Editor for WooCommerce
+
+Built and published an open-source plugin for bulk editing
+WooCommerce's native Cost of Goods Sold values.
+
+- Product filtering and paginated change previews
+- Background updates using Action Scheduler
+- Progress reporting and cancellation
+- Support for products and variations through WooCommerce CRUD APIs
+
+[WordPress.org](https://wordpress.org/plugins/bulk-cogs-editor-for-woocommerce/)
+· [Source code](https://github.com/dineshinau/bulk-cogs-editor-for-woocommerce/)
 
 ---
 
