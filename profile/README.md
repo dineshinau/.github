@@ -138,7 +138,8 @@ WooCommerce's native Cost of Goods Sold values.
 ## 💼 Professional Experience
 
 ### 🏢 Webkul Software Pvt. Ltd.
-**Technical Project Manager** | 2021 – 2026
+**Technical Project Manager** | Oct 2021 – Sept 2026
+**Software Engineer** | Feb 2021 – Sept 2021
 
 Led technical project delivery and engineering teams for WordPress and WooCommerce products and client projects.
 
