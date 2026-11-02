@@ -1,279 +1,154 @@
 # 👋 Hi, I'm Dinesh Yadav
 
-### 🚀 Hands-on technical leader with 10+ years of experience building PHP, React, WordPress, and WooCommerce products.
+### 🚀 Lead WooCommerce Architect & Technical Project Manager | #1 Global WordPress Meta & Core (v7.2) Contributor
 
-- Most recently: Technical Project Manager at Webkul
-- Managed four engineering leads and contributed to performance appraisals
-- Stayed hands-on with coding, code reviews, and technical delivery
-- Focus: marketplaces, payment gateways, shipping integrations, and plugin architecture
-- Open to Technical Lead, Engineering Manager, and Technical Project Manager opportunities
-- Based in Noida, India; available immediately and open to relocation
+[![WordPress.org Profile](https://img.shields.io/badge/WordPress.org-@dineshinau-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/dineshinau/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineshinau/)
+[![Engineering Blog](https://img.shields.io/badge/Blog-dineshinaublog.wordpress.com-5b3cc4?style=for-the-badge&logo=wordpress&logoColor=white)](https://dineshinaublog.wordpress.com/)
+[![Download Resume](https://img.shields.io/badge/Resume_PDF-Download_CV-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://dineshinaublog.wordpress.com/wp-content/uploads/2026/11/dinesh-kumar-yadav-lead-woocommerce-architect-cv.pdf)
+[![Email](https://img.shields.io/badge/Email-dineshinau%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshinau@gmail.com)
 
-I specialize in building and managing **scalable WordPress and WooCommerce solutions**, including multi-vendor marketplaces, payment gateway integrations, shipping & logistics systems, custom plugins, performance optimization, and enterprise e-commerce products.
+Hands-on **Lead WooCommerce Architect & Technical Project Manager** with **10+ years of experience** engineering commercial WordPress plugins, high-scale eCommerce architectures, and multi-vendor SaaS platforms.
 
-I enjoy working at the intersection of **technology, product development, project management, and business requirements** — turning complex requirements into practical, scalable solutions. 🤝
-
-## Featured project: Bulk COGS Editor for WooCommerce
-
-Built and published an open-source plugin for bulk editing
-WooCommerce's native Cost of Goods Sold values.
-
-- Product filtering and paginated change previews
-- Background updates using Action Scheduler
-- Progress reporting and cancellation
-- Support for products and variations through WooCommerce CRUD APIs
-
-[WordPress.org](https://wordpress.org/plugins/bulk-cogs-editor-for-woocommerce/)
-· [Source code](https://github.com/dineshinau/bulk-cogs-editor-for-woocommerce/)
+- 🏆 **Ranked #1 Contributor Worldwide in WordPress Meta** on the official WordPress Meta Pledge Leaderboard & active **WordPress Core (v7.2)** contributor
+- 👥 Directed a **20+ member engineering and QA organization across 4 team leads** at **Webkul**, delivering commercial plugins deployed across **2,000+ global merchant stores**
+- 🛒 Core engineer on flagship **FunnelKit (XL Plugins / Wisetr)** conversion products powering **30,000+ active WooCommerce stores** and **30+ tokenized payment gateways**
+- ⚡ Drove **40–50% gains in delivery velocity and post-release defect reduction** and **35% faster support resolution** via PHPCS/PHPMD code governance, Docker, CI/CD, and AI-assisted agentic workflows (MCP, Claude, Codex)
+- 📩 **Immediate Joiner:** Open to **Lead/Principal WooCommerce Architect**, **Senior WordPress Plugin Engineer**, **Technical Lead**, and **Technical Project Manager / Engineering Manager** roles (Remote, Hybrid, or On-site in Delhi NCR, Pune, Ahmedabad; open to relocation)
 
 ---
 
-## 👨‍💻 About Me
+## 🌍 Open-Source & WordPress Ecosystem Authority
 
-- 🏗️ **10+ years** of experience in WordPress, WooCommerce, PHP, React and e-commerce development
-- 🎯 Experienced in **Technical Project Management, Engineering Leadership, Solution Design, and System Architecture**
-- 👥 Led and mentored a team of **20+ developers and QA professionals**
-- 🚀 Managed **10+ concurrent client and product engineering projects**
-- 🌍 Worked on solutions for **global clients and e-commerce businesses**
-- 🛒 Built and contributed to WooCommerce solutions used by **2,000+ merchants**
-- 💻 Worked on **100+ projects/websites and commercial products** across my career
-- 🔌 Strong experience in **WordPress plugin development and WooCommerce extensions**
-- 💳 Experienced with **payment gateway and shipping/logistics integrations**
-- ⚡ Focused on **performance, scalability, security, maintainability, and clean architecture**
-- 🤖 Exploring and applying **AI-assisted and agentic development workflows**
+### 🥇 WordPress Core & Meta Contributions
+- **Ranked #1 Worldwide in WordPress Meta Contributions:** Achieved and holding the #1 spot among 1,000+ global contributors on the [Official WordPress Meta Pledge Leaderboard](https://make.wordpress.org/meta/pledges/) through code merges and issue resolutions across `wordpress.org`, `wporg-news-2021`, and `wporg-parent-2021` (Meta Trac Tickets `#8430`, `#8434`, `#8441`, `#8480`).
+- **WordPress Core Contributor (v7.2):** Authored and merged patch for [Core Trac Ticket #66080 (GitHub PR #13471)](https://core.trac.wordpress.org/ticket/66080).
+- **Make WordPress Team Member:** Active across Core, Meta, CLI, Core AI, Plugin Review, Support, Polyglots, Training, Test, and Photos teams.
+
+### 🔌 Featured Open-Source Plugins
+
+#### 1. [Bulk COGS Editor for WooCommerce](https://wordpress.org/plugins/bulk-cogs-editor-for-woocommerce/)
+Architected and published an open-source plugin on WordPress.org enabling high-volume merchants to bulk-edit native WooCommerce Cost of Goods Sold (COGS) values across simple and variable products.
+- Advanced product filtering and paginated change previews before applying updates
+- CSV and Excel batch import/export workflows with change history and eligible rollback support
+- Fault-tolerant background processing via **Action Scheduler** with real-time progress reporting and job cancellation
+- Built on native **WooCommerce CRUD/COGS APIs** and **HPOS** compatibility
+- 🔗 [WordPress.org Plugin](https://wordpress.org/plugins/bulk-cogs-editor-for-woocommerce/) · [Source Code](https://github.com/dineshinau/bulk-cogs-editor-for-woocommerce/) · [Step-by-Step Architectural Guide](https://dineshinaublog.wordpress.com/2026/10/11/bulk-edit-woocommerce-cogs/)
+
+#### 2. [Quick Plugin Switcher](https://github.com/dineshinau/quick-plugin-switcher/)
+Developer utility plugin designed to rapidly switch, toggle, and test active plugins inside the WordPress admin dashboard during complex WooCommerce development, debugging, and QA workflows.
+- 🔗 [Source Code](https://github.com/dineshinau/quick-plugin-switcher/) · [Project Walkthrough](https://dineshinaublog.wordpress.com/2026/10/26/quick-plugin-switcher/)
+
+#### 3. [Filter WC Orders](https://github.com/dineshinau/filter-wc-orders)
+Custom WooCommerce administration utility for advanced order filtering, query customization, and merchant store operations.
+- 🔗 [Source Code](https://github.com/dineshinau/filter-wc-orders) · [Project Overview](https://dineshinaublog.wordpress.com/2026/10/26/filter-wc-orders/)
 
 ---
 
-## 🧰 Technical Skills
+## 👨‍💻 Executive Snapshot & Impact
 
-### WordPress & E-commerce
-- WordPress
-- WooCommerce
-- WordPress Plugin Development
-- WooCommerce Extension Development
-- Multi-Vendor Marketplace
-- E-commerce Architecture
-- Custom Theme & Plugin Development
-- WordPress.org Plugin Publishing
-- Payment Gateway Integration
-- Shipping & Logistics Integration
-- REST API Development
-- WooCommerce Customization
+- 🏗️ **10+ years** of full-lifecycle engineering in WordPress, WooCommerce, PHP (OOP), React, and enterprise eCommerce systems
+- 👥 Led and mentored a **20+ member engineering and QA organization** structured across **4 engineering leads**, while staying hands-on with system architecture and code reviews
+- 📈 **40–50% improvement** in project delivery efficiency and post-release defect reduction across **10+ concurrent client and commercial product tracks**
+- 🔐 Led cross-functional **centralized license management architecture** across commercial plugin portfolios—covering sales, activation, automated validation, periodic revalidation, revocation, and entitlement control
+- 🛠️ **35% reduction** in support ticket resolution time through structured escalation workflows, root-cause mentoring, and automated regression testing
+- 💳 Engineered payment tokenization and checkout integrations across **30+ global payment gateways** (Stripe Multi-Vendor, Adyen, Ezidebit, NMI, PayPal, Braintree, Authorize.Net, Mollie, Klarna, BlueSnap, eWAY, EBANX, SagePay/Opayo, Omise, Culqi)
+- 🤖 Applying **AI-augmented and agentic software engineering workflows** using Model Context Protocol (MCP), Claude, Codex, Gemini, and GitHub Copilot
 
-### 💻 Backend Development
-- PHP
-- PHP OOP
-- MySQL
-- WordPress APIs
-- WooCommerce APIs
-- REST APIs
-- Plugin Architecture
-- Scalable Application Architecture
+---
 
-### 🎨 Frontend Development
-- JavaScript ES6+
-- React
-- VuePress
-- Gutenberg
-- jQuery
-- HTML/CSS
+## 🧰 Technical & Leadership Stack
 
-### ⚡ Performance & Scalability
-- WordPress Performance Optimization
-- Database & Query Optimization
-- Object Caching
-- Redis
-- Transients & File Caching
-- Background Processing
-- Action Scheduler
-- Server Optimization
-- Large-scale WooCommerce Optimization
-
-### 🛠️ DevOps & Engineering Practices
-- Git
-- GitHub
-- GitLab
-- Bitbucket
-- SVN
-- Docker
-- CI/CD
-- SSH
-- Parcel
-- Webpack
-- Gulp
-- NPM
-- PHPCS
-- PHPCBF
-- PHPMD
-- WordPress & WooCommerce Coding Standards
-
-### 🤖 AI-Assisted Development
-- Claude
-- Codex
-- GitHub Copilot
-- Gemini
-- KiloCode
-- Antigravity
-- MCP
-- Agentic Coding Workflows
-
-### 📋 Project & Technical Leadership
-- Technical Project Management
-- Requirement Analysis
-- Technical Feasibility & Estimation
-- Solution Design
-- Project Scoping
-- System Design
-- Technical Task Planning
-- Agile Delivery
-- Team Leadership & Mentoring
-- Code Reviews
-- Client Communication
-- Stakeholder Management
-- Risk & Blocker Resolution
-- Product Engineering
+| Domain | Core Technologies & Competencies |
+|---|---|
+| **🛒 WordPress & WooCommerce** | WordPress Core Internals, Custom Plugin Architecture, WooCommerce CRUD/COGS APIs, HPOS, Multi-Vendor Marketplaces, WordPress Multisite SaaS, Gutenberg, WP-CLI, WordPress.org Publishing |
+| **💻 Backend & Architecture** | PHP (OOP), MySQL, System Design, Scalable Plugin Architecture, Centralized Licensing Systems, LearnDash LMS, BuddyPress |
+| **🎨 Frontend & APIs** | React.js, Vue.js, VuePress, JavaScript (ES6+), jQuery, HTML5, CSS3, Tailwind CSS, REST APIs, GraphQL, SOAP APIs, JSON, Socket.io |
+| **💳 Payments & Logistics** | Stripe Multi-Vendor, Adyen, Ezidebit, XL NMI Gateway, PayPal, Braintree, Authorize.Net, Klarna, Mollie, 30+ Tokenized Gateways, USPS Shipping, Shiprocket |
+| **⚡ Performance & Async** | Redis, Object Caching, Transients, MySQL Query Optimization, Action Scheduler, Background Processing, High-Concurrency Checkout Optimization |
+| **🛠️ DevOps & Code Quality** | Docker, CI/CD Pipelines, Git (GitHub, GitLab, Bitbucket), SVN, Nginx, Apache, PHP-FPM, Linux/SSH, PHPCS, PHPCBF, PHPMD, WordPress/WooCommerce Coding Standards, Webpack, Parcel, Gulp, NPM |
+| **🤖 AI-Augmented Engineering** | Model Context Protocol (MCP), Agentic Coding Workflows, Claude, Codex, GitHub Copilot, Gemini, KiloCode, Antigravity |
+| **📋 Engineering Leadership** | Technical Project Management, Solution Architecture, Pre-Sales Scoping & Estimation, Agile/Scrum Delivery, Code Review Governance, Performance Appraisals, Stakeholder Management |
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Webkul Software Pvt. Ltd.
-**Technical Project Manager** | Oct 2021 – Sept 2026
-**Software Engineer** | Feb 2021 – Sept 2021
+### 🏢 Webkul Software Pvt. Ltd. — *Noida, India*
+**Technical Project Manager & Lead WooCommerce Architect** | Oct 2021 – Sept 2026
+**Software Engineer (WooCommerce & Full-Stack)** | Feb 2021 – Sept 2021
 
-Led technical project delivery and engineering teams for WordPress and WooCommerce products and client projects.
+*Promoted within 8 months from Software Engineer to Technical Project Manager & Lead WooCommerce Architect; combined hands-on coding, system architecture, and code reviews with delivery leadership.*
 
-**Key responsibilities & achievements:**
-- 🚀 Led projects from requirement analysis through technical planning, development, testing, and delivery
-- 🔍 Assessed technical feasibility, effort, architecture, and implementation approaches
-- 🤝 Worked with business and sales teams on solution strategy, costing, scope, and technical proposals
-- 👥 Led and mentored a **20+ member engineering and QA team**
-- 📌 Managed **10+ concurrent client and product engineering projects**
-- 🧩 Converted business requirements into clear technical tasks and development plans
-- 🐞 Resolved technical blockers and improved delivery efficiency
-- 🔎 Established code review and quality practices for better maintainability and release quality
-- 💬 Led client and internal meetings for planning, progress tracking, and delivery alignment
-- 🔐 Delivered commercial plugins with attention to security, licensing, coding standards, and maintainability
+- 👥 Directed a **20+ member engineering and QA organization** across **4 engineering leads**, overseeing architecture, code quality, performance appraisals, and delivery across **10+ simultaneous client and commercial product tracks**
+- 📈 Improved delivery efficiency and cut post-release defect rates by **40% to 50%** via strict code review governance (PHPCS, PHPMD, WooCommerce Coding Standards), Dockerized demo environments, CI/CD pipelines, and AI-assisted agentic coding workflows (MCP, Claude, Codex)
+- 🔐 Led cross-functional **license management implementation** across multiple departments for commercial plugins and add-ons—covering license sales, activation, automated validation, periodic revalidation, revocation, and subscription extensions
+- ⚡ Reduced support ticket resolution time by **35%** by establishing structured escalation workflows, mentoring leads on root-cause analysis, and enforcing automated regression testing
+- 🤝 Partnered with Business Development Executives (BDEs) on pre-sales technical feasibility, system design, and effort estimation for complex eCommerce builds adopted by **2,000+ global merchants**
 
-**Major WooCommerce & e-commerce contributions:**
-- 🛒 WooCommerce Multi-Vendor Marketplace
-- 📦 WooCommerce Pre Order
-- 💰 WooCommerce Wallet System
-- 💳 Multi-Vendor Stripe Integration
-- 💬 Marketplace Buyer-Seller Chat
-- 🤖 TensorFlow-powered Image Search
-- 💳 Adyen Payment Gateway
-- 📱 WooCommerce WebAR Product
-- 🚚 USPS Marketplace Shipping
-- 💳 Ezidebit Payment Gateway
-- 🚚 Shiprocket Shipping
-- 📲 WhatsApp Order Notifications
-- 👥 Group Buy
-- 🌐 Multi-Vendor & Marketplace solutions
-- 📊 Binary Multi-Level Marketing (MLM)
+**Key Commercial Plugins & Enterprise Architectures Delivered:**
+- **🏪 Multi-Vendor & SaaS Platforms:** Multi-Vendor Marketplace for WooCommerce, WooCommerce Multi-Company SaaS (WordPress Multisite Setup), WooCommerce Pre-Order, WooCommerce Wallet System, Group Buy, Binary Multi-Level Marketing (MLM)
+- **💳 Fintech & Logistics Integrations:** Multi-Vendor Stripe Integration, Adyen Payment Gateway, Ezidebit Payment Gateway, USPS Marketplace Shipping, Shiprocket Shipping
+- **🤖 AI, AR & Real-Time Commerce:** TensorFlow-Powered Image Search, WooCommerce WebAR (Augmented Reality) Product, Marketplace Buyer-Seller Chat (Socket.io), WhatsApp Order Notifications
 
 ---
 
-### 🏢 FunnelKit / Wisetr / XL Plugins
-**Senior PHP Developer** | 2018 – 2020
+### 🏢 XL Plugins (A Unit of FunnelKit & Wisetr) — *New Delhi, India*
+**Senior PHP Developer (WooCommerce Products)** | Jun 2020 – Nov 2020
+**WordPress & WooCommerce Plugin Developer** | May 2018 – May 2020
 
-Worked on commercial WordPress and WooCommerce plugins, including plugin development, maintenance, WordPress.org releases, and payment gateway integrations.
+*Core product engineer behind XL Plugins (now FunnelKit), architecting and scaling high-converting commercial and freemium WooCommerce plugins deployed across **30,000+ active stores** and **WordPress Multisite networks** globally.*
 
-**Key contributions:**
-- 💳 XL NMI Gateway for WooCommerce
-- ⏱️ Finale Lite – Sales Countdown Timer & Discount for WooCommerce
-- 🛍️ NextMove Lite – Thank You Page for WooCommerce
-- 💰 UpStroke – WooCommerce One Click Upsells
-- 📈 XL WooCommerce Sales Triggers
-
----
-
-### 🏢 ClagTech Technology Pvt. Ltd.
-**Software Engineer** | 2017 – 2018
-
-- 🌐 Worked on **50+ WordPress websites** for development and customization
-- 🛠️ Developed custom WordPress/WooCommerce functionality
-- ⚡ Worked on website enhancements, integrations, and maintenance
+- 💰 **UpStroke – WooCommerce One Click Upsells (FunnelKit):** Engineered post-purchase one-click upsell workflows and payment tokenization compatibility layers across **30+ global payment gateways** (Stripe, PayPal, Braintree, Authorize.Net, NMI, Mollie, Klarna, BlueSnap, eWAY, EBANX, SagePay/Opayo, Omise, AngellEYE, MerchantPay, Culqi)
+- 💳 **XL NMI Gateway for WooCommerce:** Architected and maintained the dedicated NMI payment gateway supporting tokenized cards, subscription renewals, refund workflows, and one-click upsell charge APIs
+- ⏱️ **Finale Lite & Pro – Sales Countdown Timer & Discount (20,000+ Active Installs):** Developed core campaign scheduling engines, dynamic pricing/discount rules, and inventory scarcity triggers
+- 🛍️ **NextMove Lite & Pro – Custom Thank You Pages (10,000+ Active Installs):** Engineered modular thank-you page components, dynamic order summaries, and smart product recommendation widgets
+- 📈 **XL WooCommerce Sales Triggers & Multisite Compatibility:** Built conversion trigger modules and engineered full **WordPress Multisite** network compatibility and query/caching optimizations for high-concurrency flash sales
 
 ---
 
-### 🏢 WebCom Designs Services Pvt. Ltd.
-**WordPress Developer** | 2016 – 2017
+### 🏢 Earlier Career & Part-Time Engineering Progression
 
-- 🌐 Developed and customized WordPress websites
-- 🔌 Created **BuddyPress Activity Filter** for the WordPress.org repository
-- 🛠️ Worked on **15+ WordPress websites**
-- 🎨 Worked on theme customization and WordPress development
-- 🔌 Quick Plugin Switcher for wordpress.org repository
-
----
-
-### 🏢 CEDCOSS Technologies Pvt. Ltd.
-**Software Developer Trainee** | 2016
-
-Started my professional journey with training and hands-on development in:
-
-- PHP
-- React
-- WordPress
-- WooCommerce
-- Theme & Plugin Development
-- HTML-to-WordPress Theme Conversion
-- WordPress Customization
+- **WordPress Developer | bitWise Academy** *(Aug 2019 – Jan 2021 · Part-Time Night Shift, 4 hrs/night Mon–Fri, Remote)*
+  Developed and scaled an enterprise STEM learning platform using **LearnDash LMS** and **BuddyPress**, engineering custom **Instructor/Student** role hierarchies and bespoke plugins for student and course management.
+- **WordPress & WooCommerce Developer | Stdio Corporations** *(Sept 2017 – Mar 2019 · Part-Time After-Hours, Remote)*
+  Worked under the mentorship of CEO Baljinder Singh delivering custom WordPress themes, bespoke WooCommerce plugins, and checkout/API customizations for US and UK clients.
+- **Software Engineer | ClagTech Technology Pvt. Ltd.** *(Apr 2017 – May 2018 · Full-Time)*
+  Architected and customized **50+ production WordPress and WooCommerce websites**, leading complex platform and database migrations from Joomla and legacy CMS platforms.
+- **WordPress & Plugin Developer | WebCom Designs Services Pvt. Ltd.** *(May 2016 – Apr 2017 · Full-Time)*
+  Created and published the **BuddyPress Activity Filter** plugin on WordPress.org and delivered custom **WordPress Multisite**, LearnDash LMS, BuddyPress, and WooCommerce builds across **15+ client websites**.
+- **Software Developer Trainee | CEDCOSS Technologies Pvt. Ltd.** *(Dec 2015 – May 2016)*
+  Completed intensive full-stack training in PHP (OOP), WordPress, WooCommerce, and React; built custom plugins including *Hide Price Until Login for WooCommerce*, *WP Backup and Restore*, and *Product Development Automation*.
 
 ---
 
-## 🏆 Areas of Expertise
+## ✍️ Technical Writing & Engineering Guides
 
-| Area | Expertise |
-|---|---|
-| 🛒 E-commerce | WooCommerce, marketplaces, multi-vendor systems |
-| 🔌 Plugins | WordPress & WooCommerce plugin architecture |
-| 💳 Payments | Payment gateway integrations & checkout solutions |
-| 🚚 Logistics | Shipping, fulfillment & logistics integrations |
-| ⚡ Performance | Caching, Redis, query & server optimization |
-| 🏗️ Architecture | Scalable plugin and e-commerce architecture |
-| 👥 Leadership | Engineering teams, mentoring & technical delivery |
-| 📋 Management | Agile project delivery, estimation & stakeholder management |
-| 🤖 AI | AI-assisted development & agentic coding workflows |
+I share practical architectural walkthroughs, plugin engineering lessons, and WordPress ecosystem insights on my blog and the Webkul engineering publication:
+
+- 📘 **[How to Bulk Edit WooCommerce COGS (Cost of Goods Sold) Safely](https://dineshinaublog.wordpress.com/2026/10/11/bulk-edit-woocommerce-cogs/)** — Filtering, previewing, CSV/Excel imports, Action Scheduler batching, and rollback architecture
+- 🏆 **[Reaching the #1 Position on the WordPress Meta Team Leaderboard](https://dineshinaublog.wordpress.com/)** — My open-source contribution journey across `wordpress.org` repositories
+- ⚡ **[Quick Plugin Switcher](https://dineshinaublog.wordpress.com/2026/10/26/quick-plugin-switcher/) & [Filter WC Orders](https://dineshinaublog.wordpress.com/2026/10/26/filter-wc-orders/)** — Building developer utilities for faster WooCommerce workflows
+- 📖 **[Webkul Engineering Blog (Author Archive)](https://webkul.com/blog/author/dineshyadav-wp/)** — Published tutorials on WooCommerce development, Redis object caching, REST API integrations, payment gateways, and AI in WordPress
 
 ---
 
-## 🌱 Currently Exploring
+## 🎓 Education
 
-- 🤖 AI-assisted software development
-- 🧠 Agentic coding and AI development workflows
-- 🏗️ Scalable WordPress & WooCommerce architecture
-- ☁️ Modern DevOps and CI/CD practices
-- ⚡ High-performance e-commerce systems
-- 🔌 Modern WordPress plugin engineering
+- **Master of Business Administration (MBA) – Finance Management** — Uttar Pradesh Rajarshi Tandon Open University (UPRTOU), Prayagraj *(2020)*
+- **Bachelor of Technology (B.Tech.) – Computer Science & Engineering** — Shri Ramswaroop Memorial College of Engineering & Management (SRMCEM / AKTU), Lucknow *(2015)*
+- **Bachelor of Science (B.Sc.) – Mathematics, Physics & Computer Maintenance** — University of Allahabad, Prayagraj *(2012)*
 
 ---
 
 ## 🤝 Let's Connect
 
-I’m always interested in discussing:
+I am available as an **immediate joiner** for **Lead/Principal WooCommerce Architect**, **Senior WordPress Plugin Engineer**, **Technical Lead**, and **Technical Project Manager / Engineering Manager** roles.
 
-- 🛒 WordPress & WooCommerce projects
-- 🔌 Custom plugin development
-- 🏪 Multi-vendor marketplace solutions
-- 💳 Payment & shipping integrations
-- ⚡ Performance optimization
-- 🏗️ Technical architecture
-- 👨‍💻 Engineering leadership
-- 🚀 Product development
-- 🤖 AI-assisted development
-
-📫 **Email:** dineshinau@gmail.com
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/dineshinau/
-
-💻 **WordPress.org Profile:** https://profiles.wordpress.org/dineshinau/
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-If you’re working on a **WordPress, WooCommerce, e-commerce, or product engineering project**, feel free to connect. 🚀
+- 📄 **Resume (PDF):** [Download My Latest CV](https://dineshinaublog.wordpress.com/wp-content/uploads/2026/11/dinesh-kumar-yadav-lead-woocommerce-architect-cv.pdf)
+- 💼 **LinkedIn:** [linkedin.com/in/dineshinau](https://www.linkedin.com/in/dineshinau/)
+- 🌐 **WordPress.org Profile:** [profiles.wordpress.org/dineshinau](https://profiles.wordpress.org/dineshinau/)
+- ✍️ **Personal Website & Blog:** [dineshinaublog.wordpress.com](https://dineshinaublog.wordpress.com/)
+- 📫 **Email:** [dineshinau@gmail.com](mailto:dineshinau@gmail.com)
 
 > **Build smart. Scale confidently. Deliver with impact. 💡**
