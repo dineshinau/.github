@@ -4,8 +4,8 @@
 
 [![WordPress.org Profile](https://img.shields.io/badge/WordPress.org-@dineshinau-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/dineshinau/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineshinau/)
-[![Engineering Blog](https://img.shields.io/badge/Blog-dineshinaublog.wordpress.com-5b3cc4?style=for-the-badge&logo=wordpress&logoColor=white)](https://dineshinaublog.wordpress.com/)
-[![Download Resume](https://img.shields.io/badge/Resume_PDF-Download_CV-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://dineshinaublog.wordpress.com/wp-content/uploads/2026/11/dinesh-kumar-yadav-lead-woocommerce-architect-cv.pdf)
+[![Engineering Blog](https://img.shields.io/badge/Blog-wpbydinesh.wordpress.com-5b3cc4?style=for-the-badge&logo=wordpress&logoColor=white)](https://wpbydinesh.wordpress.com/)
+[![Download Resume](https://img.shields.io/badge/Resume_PDF-Download_CV-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://wpbydinesh.wordpress.com/wp-content/uploads/2026/11/dinesh-kumar-yadav-lead-woocommerce-architect-cv.pdf)
 [![Email](https://img.shields.io/badge/Email-dineshinau%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshinau@gmail.com)
 
 Hands-on **Lead WooCommerce Architect & Technical Project Manager** with **10+ years of experience** engineering commercial WordPress plugins, high-scale eCommerce architectures, and multi-vendor SaaS platforms.
@@ -33,15 +33,15 @@ Architected and published an open-source plugin on WordPress.org enabling high-v
 - CSV and Excel batch import/export workflows with change history and eligible rollback support
 - Fault-tolerant background processing via **Action Scheduler** with real-time progress reporting and job cancellation
 - Built on native **WooCommerce CRUD/COGS APIs** and **HPOS** compatibility
-- 🔗 [WordPress.org Plugin](https://wordpress.org/plugins/bulk-cogs-editor-for-woocommerce/) · [Source Code](https://github.com/dineshinau/bulk-cogs-editor-for-woocommerce/) · [Step-by-Step Architectural Guide](https://dineshinaublog.wordpress.com/2026/10/11/bulk-edit-woocommerce-cogs/)
+- 🔗 [WordPress.org Plugin](https://wordpress.org/plugins/bulk-cogs-editor-for-woocommerce/) · [Source Code](https://github.com/dineshinau/bulk-cogs-editor-for-woocommerce/) · [Step-by-Step Architectural Guide](https://wpbydinesh.wordpress.com/2026/10/11/bulk-edit-woocommerce-cogs/)
 
 #### 2. [Quick Plugin Switcher](https://github.com/dineshinau/quick-plugin-switcher/)
 Developer utility plugin designed to rapidly switch, toggle, and test active plugins inside the WordPress admin dashboard during complex WooCommerce development, debugging, and QA workflows.
-- 🔗 [Source Code](https://github.com/dineshinau/quick-plugin-switcher/) · [Project Walkthrough](https://dineshinaublog.wordpress.com/2026/10/26/quick-plugin-switcher/)
+- 🔗 [Source Code](https://github.com/dineshinau/quick-plugin-switcher/) · [Project Walkthrough](https://wpbydinesh.wordpress.com/2026/10/26/quick-plugin-switcher/)
 
 #### 3. [Filter WC Orders](https://github.com/dineshinau/filter-wc-orders)
 Custom WooCommerce administration utility for advanced order filtering, query customization, and merchant store operations.
-- 🔗 [Source Code](https://github.com/dineshinau/filter-wc-orders) · [Project Overview](https://dineshinaublog.wordpress.com/2026/10/26/filter-wc-orders/)
+- 🔗 [Source Code](https://github.com/dineshinau/filter-wc-orders) · [Project Overview](https://wpbydinesh.wordpress.com/2026/10/26/filter-wc-orders/)
 
 ---
 
@@ -126,9 +126,9 @@ Custom WooCommerce administration utility for advanced order filtering, query cu
 
 I share practical architectural walkthroughs, plugin engineering lessons, and WordPress ecosystem insights on my blog and the Webkul engineering publication:
 
-- 📘 **[How to Bulk Edit WooCommerce COGS (Cost of Goods Sold) Safely](https://dineshinaublog.wordpress.com/2026/10/11/bulk-edit-woocommerce-cogs/)** — Filtering, previewing, CSV/Excel imports, Action Scheduler batching, and rollback architecture
-- 🏆 **[Reaching the #1 Position on the WordPress Meta Team Leaderboard](https://dineshinaublog.wordpress.com/)** — My open-source contribution journey across `wordpress.org` repositories
-- ⚡ **[Quick Plugin Switcher](https://dineshinaublog.wordpress.com/2026/10/26/quick-plugin-switcher/) & [Filter WC Orders](https://dineshinaublog.wordpress.com/2026/10/26/filter-wc-orders/)** — Building developer utilities for faster WooCommerce workflows
+- 📘 **[How to Bulk Edit WooCommerce COGS (Cost of Goods Sold) Safely](https://wpbydinesh.wordpress.com/2026/10/11/bulk-edit-woocommerce-cogs/)** — Filtering, previewing, CSV/Excel imports, Action Scheduler batching, and rollback architecture
+- 🏆 **[Reaching the #1 Position on the WordPress Meta Team Leaderboard](https://wpbydinesh.wordpress.com/)** — My open-source contribution journey across `wordpress.org` repositories
+- ⚡ **[Quick Plugin Switcher](https://wpbydinesh.wordpress.com/2026/10/26/quick-plugin-switcher/) & [Filter WC Orders](https://wpbydinesh.wordpress.com/2026/10/26/filter-wc-orders/)** — Building developer utilities for faster WooCommerce workflows
 - 📖 **[Webkul Engineering Blog (Author Archive)](https://webkul.com/blog/author/dineshyadav-wp/)** — Published tutorials on WooCommerce development, Redis object caching, REST API integrations, payment gateways, and AI in WordPress
 
 ---
@@ -145,10 +145,10 @@ I share practical architectural walkthroughs, plugin engineering lessons, and Wo
 
 I am available as an **immediate joiner** for **Lead/Principal WooCommerce Architect**, **Senior WordPress Plugin Engineer**, **Technical Lead**, and **Technical Project Manager / Engineering Manager** roles.
 
-- 📄 **Resume (PDF):** [Download My Latest CV](https://dineshinaublog.wordpress.com/wp-content/uploads/2026/11/dinesh-kumar-yadav-lead-woocommerce-architect-cv.pdf)
+- 📄 **Resume (PDF):** [Download My Latest CV](https://wpbydinesh.wordpress.com/wp-content/uploads/2026/11/dinesh-kumar-yadav-lead-woocommerce-architect-cv.pdf)
 - 💼 **LinkedIn:** [linkedin.com/in/dineshinau](https://www.linkedin.com/in/dineshinau/)
 - 🌐 **WordPress.org Profile:** [profiles.wordpress.org/dineshinau](https://profiles.wordpress.org/dineshinau/)
-- ✍️ **Personal Website & Blog:** [dineshinaublog.wordpress.com](https://dineshinaublog.wordpress.com/)
+- ✍️ **Personal Website & Blog:** [wpbydinesh.wordpress.com](https://wpbydinesh.wordpress.com/)
 - 📫 **Email:** [dineshinau@gmail.com](mailto:dineshinau@gmail.com)
 
 > **Build smart. Scale confidently. Deliver with impact. 💡**
