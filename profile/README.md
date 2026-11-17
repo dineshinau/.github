@@ -4,7 +4,7 @@
 
 [![WordPress.org Profile](https://img.shields.io/badge/WordPress.org-@dineshinau-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/dineshinau/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineshinau/)
-[![Engineering Blog](https://img.shields.io/badge/Blog-wpbydinesh.wordpress.com-5b3cc4?style=for-the-badge&logo=wordpress&logoColor=white)](https://wpbydinesh.wordpress.com/)
+[![Engineering Blog - WP By Dinesh](https://img.shields.io/badge/Blog-wpbydinesh.wordpress.com-5b3cc4?style=for-the-badge&logo=wordpress&logoColor=white)](https://wpbydinesh.wordpress.com/)
 [![Download Resume](https://img.shields.io/badge/Resume_PDF-Download_CV-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://wpbydinesh.wordpress.com/wp-content/uploads/2026/11/dinesh-kumar-yadav-lead-woocommerce-architect-cv.pdf)
 [![Email](https://img.shields.io/badge/Email-dineshinau%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshinau@gmail.com)
 
@@ -148,7 +148,7 @@ I am available as an **immediate joiner** for **Lead/Principal WooCommerce Archi
 - 📄 **Resume (PDF):** [Download My Latest CV](https://wpbydinesh.wordpress.com/wp-content/uploads/2026/11/dinesh-kumar-yadav-lead-woocommerce-architect-cv.pdf)
 - 💼 **LinkedIn:** [linkedin.com/in/dineshinau](https://www.linkedin.com/in/dineshinau/)
 - 🌐 **WordPress.org Profile:** [profiles.wordpress.org/dineshinau](https://profiles.wordpress.org/dineshinau/)
-- ✍️ **Personal Website & Blog:** [wpbydinesh.wordpress.com](https://wpbydinesh.wordpress.com/)
+- ✍️ **Personal Website & Blog (WP By Dinesh):** [wpbydinesh.wordpress.com](https://wpbydinesh.wordpress.com/)
 - 📫 **Email:** [dineshinau@gmail.com](mailto:dineshinau@gmail.com)
 
 > **Build smart. Scale confidently. Deliver with impact. 💡**
