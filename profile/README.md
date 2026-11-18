@@ -5,7 +5,7 @@
 [![WordPress.org Profile](https://img.shields.io/badge/WordPress.org-@dineshinau-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/dineshinau/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wpbydinesh/)
 [![Engineering Blog - WP By Dinesh](https://img.shields.io/badge/Blog-wpbydinesh.wordpress.com-5b3cc4?style=for-the-badge&logo=wordpress&logoColor=white)](https://wpbydinesh.wordpress.com/)
-[![Download Resume](https://img.shields.io/badge/Resume_PDF-Download_CV-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://wpbydinesh.wordpress.com/wp-content/uploads/2026/11/dinesh-kumar-yadav-lead-woocommerce-architect-cv.pdf)
+[![Download Resume](https://img.shields.io/badge/Resume_PDF-Download_CV-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://wpbydinesh.wordpress.com/dinesh-kumar-yadav-lead-woocommerce-architect-cv/)
 [![Email](https://img.shields.io/badge/Email-dineshinau%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshinau@gmail.com)
 
 Hands-on **Lead WooCommerce Architect & Technical Project Manager** with **10+ years of experience** engineering commercial WordPress plugins, high-scale eCommerce architectures, and multi-vendor SaaS platforms.
@@ -145,7 +145,7 @@ I share practical architectural walkthroughs, plugin engineering lessons, and Wo
 
 I am available as an **immediate joiner** for **Lead/Principal WooCommerce Architect**, **Senior WordPress Plugin Engineer**, **Technical Lead**, and **Technical Project Manager / Engineering Manager** roles.
 
-- 📄 **Resume (PDF):** [Download My Latest CV](https://wpbydinesh.wordpress.com/wp-content/uploads/2026/11/dinesh-kumar-yadav-lead-woocommerce-architect-cv.pdf)
+- 📄 **Resume (PDF):** [Download My Latest CV](https://wpbydinesh.wordpress.com/dinesh-kumar-yadav-lead-woocommerce-architect-cv/)
 - 💼 **LinkedIn:** [linkedin.com/in/wpbydinesh](https://www.linkedin.com/in/wpbydinesh/)
 - 🌐 **WordPress.org Profile:** [profiles.wordpress.org/dineshinau](https://profiles.wordpress.org/dineshinau/)
 - ✍️ **Personal Website & Blog (WP By Dinesh):** [wpbydinesh.wordpress.com](https://wpbydinesh.wordpress.com/)
